@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Shawn Herron
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, a web application was developed to retreive movie information at the user's request.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
